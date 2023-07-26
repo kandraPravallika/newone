@@ -1,3 +1,7 @@
 this is the conent in file
 addedtest
+<<<<<<< HEAD
 thi is main branch content
+=======
+this is auto branch text
+>>>>>>> autobranch
